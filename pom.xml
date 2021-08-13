@@ -107,7 +107,7 @@
     <license-text.header>headers/AGPL-3-header.txt</license-text.header>
 
     <lucene.version>8.5.0</lucene.version>
-    <bouncycastle.version>1.64</bouncycastle.version>
+    <bouncycastle.version>1.67</bouncycastle.version>
     <jetty.version>9.4.26.v20200117</jetty.version>
     <findbugs.version>3.0.1</findbugs.version>
     <scala-maven-plugin.version>4.3.0</scala-maven-plugin.version>
